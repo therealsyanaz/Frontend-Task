@@ -1,0 +1,38 @@
+h4{
+    margin: 1rem 0;
+}
+
+table {
+    width: 100%;
+    margin: 1rem auto;;
+}
+
+mat-form-field {
+    font-size: 1em;
+}
+
+mat-form-field label {
+    font-size: 1em;
+}
+
+mat-form-field.mat-form-field-should-float label {
+    font-size: 0.5px;
+  }
+
+.container-att{
+    margin: 1rem 7rem;
+
+}
+
+.full-width{
+    width: 100%;
+}
+
+.pull-right{
+    float:right;
+}
+
+#action-header{
+    text-align: right;
+    padding-right: 6em;
+}
